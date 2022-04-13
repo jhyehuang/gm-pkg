@@ -1,4 +1,4 @@
-module github.com/jhyehuanag/gm-pkg
+module github.com/jhyehuang/gm-pkg
 
 go 1.17
 
