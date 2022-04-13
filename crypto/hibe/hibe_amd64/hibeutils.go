@@ -15,10 +15,10 @@ import (
 	"reflect"
 	"strings"
 
-	"github.com/xhx/gm-pkg/crypto"
-	"github.com/xhx/gm-pkg/crypto/hash"
-	"github.com/xhx/gm-pkg/crypto/hibe/hibe_amd64/hibe"
-	"github.com/xhx/gm-pkg/crypto/sym"
+	"github.com/jhyehuang/gm-pkg/crypto"
+	"github.com/jhyehuang/gm-pkg/crypto/hash"
+	"github.com/jhyehuang/gm-pkg/crypto/hibe/hibe_amd64/hibe"
+	"github.com/jhyehuang/gm-pkg/crypto/sym"
 )
 
 // ValidateId is used to validate id format

@@ -16,7 +16,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/xhx/gm-pkg/crypto"
+	"github.com/jhyehuang/gm-pkg/crypto"
 	"github.com/stretchr/testify/require"
 	tjx509 "github.com/tjfoc/gmsm/x509"
 )

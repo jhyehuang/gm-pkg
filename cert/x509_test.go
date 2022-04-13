@@ -3,8 +3,8 @@ package cert
 import (
 	"fmt"
 	"github.com/stretchr/testify/require"
-	"github.com/xhx/gm-pkg/crypto"
-	"github.com/xhx/gm-pkg/crypto/x509"
+	"github.com/jhyehuang/gm-pkg/crypto"
+	"github.com/jhyehuang/gm-pkg/crypto/x509"
 	"path/filepath"
 	"testing"
 )

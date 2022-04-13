@@ -17,7 +17,7 @@ import (
 	"strings"
 	"time"
 
-	rotatelogs "github.com/xhx/gm-pkg/log/file-rotatelogs"
+	rotatelogs "github.com/jhyehuang/gm-pkg/log/file-rotatelogs"
 	"go.uber.org/zap"
 	"go.uber.org/zap/zapcore"
 )

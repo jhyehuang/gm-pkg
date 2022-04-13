@@ -7,9 +7,9 @@ import (
 	"testing"
 	"time"
 
-	cmtls "github.com/xhx/gm-pkg/crypto/tls"
-	"github.com/xhx/gm-pkg/crypto/tls/credentials/helloworld"
-	cmx509 "github.com/xhx/gm-pkg/crypto/x509"
+	cmtls "github.com/jhyehuang/gm-pkg/crypto/tls"
+	"github.com/jhyehuang/gm-pkg/crypto/tls/credentials/helloworld"
+	cmx509 "github.com/jhyehuang/gm-pkg/crypto/x509"
 	"github.com/stretchr/testify/require"
 	"golang.org/x/net/context"
 	"google.golang.org/grpc"

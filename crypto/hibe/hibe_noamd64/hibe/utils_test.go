@@ -6,7 +6,7 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/xhx/gm-pkg/crypto/hibe/hibe_noamd64/hibe/bn256"
+	"github.com/jhyehuang/gm-pkg/crypto/hibe/hibe_noamd64/hibe/bn256"
 )
 
 var ID = []string{"a", "b", "c"}

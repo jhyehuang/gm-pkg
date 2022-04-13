@@ -16,7 +16,7 @@ import (
 	"fmt"
 	"hash"
 
-	cmx509 "github.com/xhx/gm-pkg/crypto/x509"
+	cmx509 "github.com/jhyehuang/gm-pkg/crypto/x509"
 
 	"golang.org/x/crypto/chacha20poly1305"
 )

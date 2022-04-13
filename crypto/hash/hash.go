@@ -12,7 +12,7 @@ import (
 	"fmt"
 	"hash"
 
-	"github.com/xhx/gm-pkg/crypto"
+	"github.com/jhyehuang/gm-pkg/crypto"
 	"github.com/tjfoc/gmsm/sm3"
 	"golang.org/x/crypto/sha3"
 )

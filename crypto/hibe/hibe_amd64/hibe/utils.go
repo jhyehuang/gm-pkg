@@ -4,7 +4,7 @@ import (
 	"crypto/sha256"
 	"math/big"
 
-	"github.com/xhx/gm-pkg/crypto/hibe/hibe_amd64/hibe/bn256"
+	"github.com/jhyehuang/gm-pkg/crypto/hibe/hibe_amd64/hibe/bn256"
 )
 
 // geSize is the base size in bytes of a marshalled group element. The size of

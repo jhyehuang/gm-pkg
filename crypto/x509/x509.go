@@ -35,11 +35,11 @@ import (
 
 	"github.com/tjfoc/gmsm/sm2"
 	tjx509 "github.com/tjfoc/gmsm/x509"
-	bccrypto "github.com/xhx/gm-pkg/crypto"
-	"github.com/xhx/gm-pkg/crypto/asym"
-	bcecdsa "github.com/xhx/gm-pkg/crypto/asym/ecdsa"
-	bcrsa "github.com/xhx/gm-pkg/crypto/asym/rsa"
-	bcsm2 "github.com/xhx/gm-pkg/crypto/asym/sm2"
+	bccrypto "github.com/jhyehuang/gm-pkg/crypto"
+	"github.com/jhyehuang/gm-pkg/crypto/asym"
+	bcecdsa "github.com/jhyehuang/gm-pkg/crypto/asym/ecdsa"
+	bcrsa "github.com/jhyehuang/gm-pkg/crypto/asym/rsa"
+	bcsm2 "github.com/jhyehuang/gm-pkg/crypto/asym/sm2"
 	"golang.org/x/crypto/cryptobyte"
 	cryptobyte_asn1 "golang.org/x/crypto/cryptobyte/asn1"
 )

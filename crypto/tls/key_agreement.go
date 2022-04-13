@@ -13,7 +13,7 @@ import (
 	"fmt"
 	"io"
 
-	cmx509 "github.com/xhx/gm-pkg/crypto/x509"
+	cmx509 "github.com/jhyehuang/gm-pkg/crypto/x509"
 )
 
 var errClientKeyExchange = errors.New("tls: invalid ClientKeyExchange message")

@@ -11,7 +11,7 @@ import (
 	"crypto/sha256"
 	"math"
 
-	"github.com/xhx/gm-pkg/crypto"
+	"github.com/jhyehuang/gm-pkg/crypto"
 )
 
 // nolint: deadcode,unused

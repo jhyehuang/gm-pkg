@@ -9,12 +9,12 @@ package x509
 
 import (
 	"fmt"
-	"github.com/xhx/gm-pkg/crypto"
-	"github.com/xhx/gm-pkg/crypto/asym"
+	"github.com/jhyehuang/gm-pkg/crypto"
+	"github.com/jhyehuang/gm-pkg/crypto/asym"
 	"testing"
 
 	"github.com/stretchr/testify/require"
-	//"github.com/xhx/gm-pkg/crypto/asym"
+	//"github.com/jhyehuang/gm-pkg/crypto/asym"
 )
 
 const (

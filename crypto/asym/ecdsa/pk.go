@@ -20,8 +20,8 @@ import (
 	"fmt"
 
 	"github.com/btcsuite/btcd/btcec"
-	"github.com/xhx/gm-pkg/crypto"
-	"github.com/xhx/gm-pkg/crypto/hash"
+	"github.com/jhyehuang/gm-pkg/crypto"
+	"github.com/jhyehuang/gm-pkg/crypto/hash"
 )
 
 type PublicKey struct {

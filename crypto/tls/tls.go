@@ -21,7 +21,7 @@ import (
 	"encoding/pem"
 	"errors"
 	"fmt"
-	"github.com/xhx/gm-pkg/crypto/asym"
+	"github.com/jhyehuang/gm-pkg/crypto/asym"
 	"io/ioutil"
 	"net"
 	"strings"
@@ -29,7 +29,7 @@ import (
 
 	"github.com/tjfoc/gmsm/sm2"
 	tjx509 "github.com/tjfoc/gmsm/x509"
-	cmx509 "github.com/xhx/gm-pkg/crypto/x509"
+	cmx509 "github.com/jhyehuang/gm-pkg/crypto/x509"
 )
 
 // Server returns a new TLS server side connection

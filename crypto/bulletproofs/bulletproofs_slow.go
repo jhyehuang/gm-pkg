@@ -10,7 +10,7 @@ SPDX-License-Identifier: Apache-2.0
 
 package bulletproofs
 
-import "github.com/xhx/gm-pkg/crypto/bulletproofs/bulletproofs_nocgo"
+import "github.com/jhyehuang/gm-pkg/crypto/bulletproofs/bulletproofs_nocgo"
 
 // ProveRandomOpening Generate proof with randomly pick opening
 // x: prove x is in the range [0, 2^64)

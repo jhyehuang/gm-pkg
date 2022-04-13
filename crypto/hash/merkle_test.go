@@ -13,7 +13,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/xhx/gm-pkg/random/uuid"
+	"github.com/jhyehuang/gm-pkg/random/uuid"
 	"github.com/stretchr/testify/require"
 )
 

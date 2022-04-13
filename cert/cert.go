@@ -25,11 +25,11 @@ import (
 	"time"
 
 	"github.com/tjfoc/gmsm/sm2"
-	bcx509 "github.com/xhx/gm-pkg/crypto/x509"
+	bcx509 "github.com/jhyehuang/gm-pkg/crypto/x509"
 
-	"github.com/xhx/gm-pkg/crypto"
-	"github.com/xhx/gm-pkg/crypto/asym"
-	"github.com/xhx/gm-pkg/crypto/hash"
+	"github.com/jhyehuang/gm-pkg/crypto"
+	"github.com/jhyehuang/gm-pkg/crypto/asym"
+	"github.com/jhyehuang/gm-pkg/crypto/hash"
 )
 
 const (

@@ -9,7 +9,7 @@ package x509
 import (
 	"encoding/pem"
 	"fmt"
-	"github.com/xhx/gm-pkg/crypto/asym"
+	"github.com/jhyehuang/gm-pkg/crypto/asym"
 )
 
 func GetOUFromPEM(certPEM []byte) ([]string, error) {

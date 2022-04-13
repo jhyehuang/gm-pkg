@@ -15,10 +15,10 @@ import (
 	"github.com/miekg/pkcs11"
 	"github.com/pkg/errors"
 	"github.com/tjfoc/gmsm/sm2"
-	bccrypto "github.com/xhx/gm-pkg/crypto"
-	bcecdsa "github.com/xhx/gm-pkg/crypto/asym/ecdsa"
-	bcsm2 "github.com/xhx/gm-pkg/crypto/asym/sm2"
-	"github.com/xhx/gm-pkg/crypto/hash"
+	bccrypto "github.com/jhyehuang/gm-pkg/crypto"
+	bcecdsa "github.com/jhyehuang/gm-pkg/crypto/asym/ecdsa"
+	bcsm2 "github.com/jhyehuang/gm-pkg/crypto/asym/sm2"
+	"github.com/jhyehuang/gm-pkg/crypto/hash"
 )
 
 type ecdsaPrivateKey struct {

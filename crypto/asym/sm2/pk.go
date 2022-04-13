@@ -19,8 +19,8 @@ import (
 
 	tjsm2 "github.com/tjfoc/gmsm/sm2"
 	gmx509 "github.com/tjfoc/gmsm/x509"
-	"github.com/xhx/gm-pkg/crypto"
-	"github.com/xhx/gm-pkg/crypto/hash"
+	"github.com/jhyehuang/gm-pkg/crypto"
+	"github.com/jhyehuang/gm-pkg/crypto/hash"
 )
 
 type PublicKey struct {

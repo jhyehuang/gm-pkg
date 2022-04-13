@@ -9,7 +9,7 @@ package rotatelogs
 import (
 	"time"
 
-	"github.com/xhx/gm-pkg/log/file-rotatelogs/internal/option"
+	"github.com/jhyehuang/gm-pkg/log/file-rotatelogs/internal/option"
 )
 
 const (

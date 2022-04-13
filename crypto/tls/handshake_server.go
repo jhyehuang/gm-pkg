@@ -16,7 +16,7 @@ import (
 	"io"
 	"sync/atomic"
 
-	cmx509 "github.com/xhx/gm-pkg/crypto/x509"
+	cmx509 "github.com/jhyehuang/gm-pkg/crypto/x509"
 	"github.com/tjfoc/gmsm/sm2"
 )
 

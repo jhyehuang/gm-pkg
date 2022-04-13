@@ -11,8 +11,8 @@ import (
 	"net"
 	"strings"
 
-	cmtls "github.com/xhx/gm-pkg/crypto/tls"
-	cmx509 "github.com/xhx/gm-pkg/crypto/x509"
+	cmtls "github.com/jhyehuang/gm-pkg/crypto/tls"
+	cmx509 "github.com/jhyehuang/gm-pkg/crypto/x509"
 	"golang.org/x/net/context"
 	"google.golang.org/grpc/credentials"
 )

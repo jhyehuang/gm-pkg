@@ -14,10 +14,10 @@ import (
 	"io"
 	"math/big"
 
-	"github.com/xhx/gm-pkg/crypto"
-	"github.com/xhx/gm-pkg/crypto/hibe/hibe_noamd64"
-	"github.com/xhx/gm-pkg/crypto/hibe/hibe_noamd64/hibe"
-	"github.com/xhx/gm-pkg/crypto/hibe/hibe_noamd64/hibe/bn256"
+	"github.com/jhyehuang/gm-pkg/crypto"
+	"github.com/jhyehuang/gm-pkg/crypto/hibe/hibe_noamd64"
+	"github.com/jhyehuang/gm-pkg/crypto/hibe/hibe_noamd64/hibe"
+	"github.com/jhyehuang/gm-pkg/crypto/hibe/hibe_noamd64/hibe/bn256"
 )
 
 type Params = hibe.Params

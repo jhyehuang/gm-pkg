@@ -19,10 +19,10 @@ import (
 
 	"github.com/miekg/pkcs11"
 
-	bccrypto "github.com/xhx/gm-pkg/crypto"
-	bcecdsa "github.com/xhx/gm-pkg/crypto/asym/ecdsa"
-	bcrsa "github.com/xhx/gm-pkg/crypto/asym/rsa"
-	"github.com/xhx/gm-pkg/crypto/hash"
+	bccrypto "github.com/jhyehuang/gm-pkg/crypto"
+	bcecdsa "github.com/jhyehuang/gm-pkg/crypto/asym/ecdsa"
+	bcrsa "github.com/jhyehuang/gm-pkg/crypto/asym/rsa"
+	"github.com/jhyehuang/gm-pkg/crypto/hash"
 	"github.com/pkg/errors"
 	"github.com/tjfoc/gmsm/sm2"
 )

@@ -12,7 +12,7 @@ package bulletproofs
 
 import "C"
 import (
-	"github.com/xhx/gm-pkg/crypto/bulletproofs/bulletproofs_cgo"
+	"github.com/jhyehuang/gm-pkg/crypto/bulletproofs/bulletproofs_cgo"
 )
 
 // ProveRandomOpening Generate proof with randomly pick opening

@@ -11,14 +11,14 @@ import (
 	"crypto/rand"
 	"fmt"
 
-	"github.com/xhx/gm-pkg/crypto/sym/util"
+	"github.com/jhyehuang/gm-pkg/crypto/sym/util"
 
 	"github.com/pkg/errors"
 
-	"github.com/xhx/gm-pkg/crypto/sym/modes"
+	"github.com/jhyehuang/gm-pkg/crypto/sym/modes"
 
 	"github.com/miekg/pkcs11"
-	bccrypto "github.com/xhx/gm-pkg/crypto"
+	bccrypto "github.com/jhyehuang/gm-pkg/crypto"
 )
 
 var defaultAESOpts = &bccrypto.EncOpts{

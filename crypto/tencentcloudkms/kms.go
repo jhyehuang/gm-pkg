@@ -9,9 +9,9 @@ package tencentcloudkms
 import (
 	"fmt"
 
-	bccrypto "github.com/xhx/gm-pkg/crypto"
-	"github.com/xhx/gm-pkg/crypto/asym"
-	"github.com/xhx/gm-pkg/json"
+	bccrypto "github.com/jhyehuang/gm-pkg/crypto"
+	"github.com/jhyehuang/gm-pkg/crypto/asym"
+	"github.com/jhyehuang/gm-pkg/json"
 	"github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/common"
 	"github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/common/errors"
 	"github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/common/profile"

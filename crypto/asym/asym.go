@@ -31,10 +31,10 @@ import (
 	tjsm2 "github.com/tjfoc/gmsm/sm2"
 	smx509 "github.com/tjfoc/gmsm/x509"
 
-	"github.com/xhx/gm-pkg/crypto"
-	"github.com/xhx/gm-pkg/crypto/asym/ecdsa"
-	"github.com/xhx/gm-pkg/crypto/asym/rsa"
-	"github.com/xhx/gm-pkg/crypto/asym/sm2"
+	"github.com/jhyehuang/gm-pkg/crypto"
+	"github.com/jhyehuang/gm-pkg/crypto/asym/ecdsa"
+	"github.com/jhyehuang/gm-pkg/crypto/asym/rsa"
+	"github.com/jhyehuang/gm-pkg/crypto/asym/sm2"
 )
 
 const pemBegin = "-----BEGIN"

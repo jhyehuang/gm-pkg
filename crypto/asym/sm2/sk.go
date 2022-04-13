@@ -23,8 +23,8 @@ import (
 	"math/big"
 
 	tjsm2 "github.com/tjfoc/gmsm/sm2"
-	"github.com/xhx/gm-pkg/crypto"
-	"github.com/xhx/gm-pkg/crypto/hash"
+	"github.com/jhyehuang/gm-pkg/crypto"
+	"github.com/jhyehuang/gm-pkg/crypto/hash"
 )
 
 var defaultSM2Opts = &crypto.EncOpts{

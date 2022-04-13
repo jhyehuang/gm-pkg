@@ -15,9 +15,9 @@ import (
 	"encoding/hex"
 	"fmt"
 
-	"github.com/xhx/gm-pkg/crypto"
-	"github.com/xhx/gm-pkg/crypto/sym/modes"
-	"github.com/xhx/gm-pkg/crypto/sym/util"
+	"github.com/jhyehuang/gm-pkg/crypto"
+	"github.com/jhyehuang/gm-pkg/crypto/sym/modes"
+	"github.com/jhyehuang/gm-pkg/crypto/sym/util"
 )
 
 const (

@@ -12,9 +12,9 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/xhx/gm-pkg/crypto"
-	"github.com/xhx/gm-pkg/crypto/sym/aes"
-	"github.com/xhx/gm-pkg/crypto/sym/sm4"
+	"github.com/jhyehuang/gm-pkg/crypto"
+	"github.com/jhyehuang/gm-pkg/crypto/sym/aes"
+	"github.com/jhyehuang/gm-pkg/crypto/sym/sm4"
 )
 
 var (

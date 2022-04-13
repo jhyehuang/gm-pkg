@@ -16,7 +16,7 @@ import (
 	"hash"
 	"io"
 
-	cmcrypto "github.com/xhx/gm-pkg/crypto"
+	cmcrypto "github.com/jhyehuang/gm-pkg/crypto"
 	"github.com/tjfoc/gmsm/sm2"
 )
 

@@ -10,7 +10,7 @@ import (
 	"crypto"
 	"io"
 
-	bccrypto "github.com/xhx/gm-pkg/crypto"
+	bccrypto "github.com/jhyehuang/gm-pkg/crypto"
 )
 
 type Signer struct {

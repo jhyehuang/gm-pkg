@@ -20,7 +20,7 @@ import (
 	"github.com/tjfoc/gmsm/sm2"
 	"github.com/tjfoc/gmsm/sm3"
 
-	bccrypto "github.com/xhx/gm-pkg/crypto"
+	bccrypto "github.com/jhyehuang/gm-pkg/crypto"
 	"github.com/stretchr/testify/assert"
 )
 

@@ -17,8 +17,8 @@ import (
 	"encoding/pem"
 	"fmt"
 
-	"github.com/xhx/gm-pkg/crypto"
-	"github.com/xhx/gm-pkg/crypto/hash"
+	"github.com/jhyehuang/gm-pkg/crypto"
+	"github.com/jhyehuang/gm-pkg/crypto/hash"
 )
 
 var defaultRSAOpts = &crypto.EncOpts{

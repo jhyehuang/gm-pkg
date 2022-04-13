@@ -11,10 +11,10 @@ import (
 	"crypto/rand"
 	"fmt"
 
-	"github.com/xhx/gm-pkg/crypto/sym/util"
+	"github.com/jhyehuang/gm-pkg/crypto/sym/util"
 
-	bccrypto "github.com/xhx/gm-pkg/crypto"
-	"github.com/xhx/gm-pkg/crypto/sym/modes"
+	bccrypto "github.com/jhyehuang/gm-pkg/crypto"
+	"github.com/jhyehuang/gm-pkg/crypto/sym/modes"
 	"github.com/miekg/pkcs11"
 	"github.com/pkg/errors"
 )

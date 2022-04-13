@@ -20,8 +20,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/xhx/gm-pkg/crypto"
-	"github.com/xhx/gm-pkg/crypto/hibe/hibe_amd64/hibe"
+	"github.com/jhyehuang/gm-pkg/crypto"
+	"github.com/jhyehuang/gm-pkg/crypto/hibe/hibe_amd64/hibe"
 	"github.com/stretchr/testify/require"
 )
 

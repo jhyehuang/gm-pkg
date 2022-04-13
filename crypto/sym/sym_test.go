@@ -13,7 +13,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/xhx/gm-pkg/crypto"
+	"github.com/jhyehuang/gm-pkg/crypto"
 	"github.com/stretchr/testify/require"
 )
 

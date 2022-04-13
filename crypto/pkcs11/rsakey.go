@@ -13,12 +13,12 @@ import (
 	"fmt"
 	"io"
 
-	bcrsa "github.com/xhx/gm-pkg/crypto/asym/rsa"
+	bcrsa "github.com/jhyehuang/gm-pkg/crypto/asym/rsa"
 
 	"github.com/pkg/errors"
 
 	"github.com/miekg/pkcs11"
-	bccrypto "github.com/xhx/gm-pkg/crypto"
+	bccrypto "github.com/jhyehuang/gm-pkg/crypto"
 )
 
 type rsaPrivateKey struct {

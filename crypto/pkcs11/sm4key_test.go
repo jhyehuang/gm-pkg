@@ -11,7 +11,7 @@ import (
 	"fmt"
 	"testing"
 
-	bccrypto "github.com/xhx/gm-pkg/crypto"
+	bccrypto "github.com/jhyehuang/gm-pkg/crypto"
 
 	"github.com/stretchr/testify/assert"
 )

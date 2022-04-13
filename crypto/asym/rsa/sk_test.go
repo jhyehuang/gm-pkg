@@ -13,7 +13,7 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/require"
-	"github.com/xhx/gm-pkg/crypto"
+	"github.com/jhyehuang/gm-pkg/crypto"
 )
 
 var msg = "js"

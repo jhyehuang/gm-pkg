@@ -5,7 +5,7 @@
 package credentials
 
 import (
-	cmtls "github.com/xhx/gm-pkg/crypto/tls"
+	cmtls "github.com/jhyehuang/gm-pkg/crypto/tls"
 )
 
 // cloneTLSConfig returns a shallow clone of the exported
